@@ -45,9 +45,8 @@ A data-driven dashboard that uses Machine Learning to optimize product pricing a
 >Add time-based price suggestions
 
 
->Add user data integration features
-
 >Include category-wise comparison graphs
 
+>Include user input queries and data integration
 
 >Integrate with live e-commerce APIs (like Shopify or Flipkart Seller API)
