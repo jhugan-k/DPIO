@@ -1,6 +1,6 @@
 # DPIO – Dynamic Pricing & Inventory Optimisation Dashboard
 
-A data-driven dashboard that uses Machine Learning to optimize product pricing and predict demand. Designed for e-commerce companies to maximize revenue by adjusting prices intelligently based on demand and stock levels.
+A data-driven dashboard that uses Machine Learning to optimize product pricing and predict demand. Designed for e-commerce businesses to maximize revenue by adjusting prices intelligently based on demand and stock levels.
 
 ---
 
