@@ -1,0 +1,47 @@
+//int size = cache capacity
+
+//insert({key, value}) int, negative 
+//get(key) -> give value of key
+
+//implement LRU: least recently used 
+//unordered_map<int,int> key,value 
+
+
+
+
+
+
+#incude<bits:stdc++/h>
+
+#include<deque>
+
+
+class Solution{
+    public:
+
+    struct ListNode{
+        ListNode* prev;
+        ListNode* next;
+        int data;
+
+        ListNode(val){
+            prev = NULL;
+            next = NULL;
+            this->data = val;
+        }
+
+    }
+    
+
+
+    unordered_map<,int> mpp; 
+
+
+    private:
+
+    void insert(pair<int,int> p){
+        int key = pair.first;
+        int value
+    }
+    
+}

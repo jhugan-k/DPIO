@@ -1,0 +1,101 @@
+product_id,product_name,category,base_price
+1,Fitness Band #1,Wearables,2819
+2,Fitness Band #2,Wearables,3340
+3,Laptop #3,Electronics,3353
+4,Backpack #4,Accessories,1058
+5,Tablet #5,Electronics,1617
+6,VR Headset #6,Wearables,708
+7,Wall Decor #7,Home,240
+8,Action Figure #8,Toys,2394
+9,Microwave #9,Kitchen,2894
+10,Remote Car #10,Toys,894
+11,VR Headset #11,Wearables,787
+12,Eyeliner #12,Beauty,1806
+13,Biography #13,Books,1583
+14,LED Lamp #14,Home,1874
+15,Conditioner #15,Beauty,2121
+16,Wallet #16,Accessories,2443
+17,Heart Rate Monitor #17,Wearables,3034
+18,Heart Rate Monitor #18,Wearables,2591
+19,Backpack #19,Accessories,1902
+20,Yoga Mat #20,Fitness,241
+21,Remote Car #21,Toys,4974
+22,Smart Glasses #22,Wearables,3354
+23,Puzzle #23,Toys,1608
+24,Clock #24,Home,234
+25,Cookbook #25,Books,4490
+26,Sunglasses #26,Accessories,741
+27,Belt #27,Accessories,1926
+28,LED Lamp #28,Home,3454
+29,Action Figure #29,Toys,2629
+30,Cushions #30,Home,4192
+31,Running Shoes #31,Footwear,4310
+32,Wall Decor #32,Home,553
+33,Action Figure #33,Toys,3118
+34,Microwave #34,Kitchen,2034
+35,Resistance Bands #35,Fitness,1818
+36,Blender #36,Kitchen,3251
+37,Laptop #37,Electronics,4809
+38,Treadmill #38,Fitness,3102
+39,Doll #39,Toys,3807
+40,Eyeliner #40,Beauty,2080
+41,Toaster #41,Kitchen,4446
+42,Bluetooth Speaker #42,Electronics,3474
+43,Action Figure #43,Toys,1474
+44,Shampoo #44,Beauty,4959
+45,Slippers #45,Footwear,3355
+46,Yoga Mat #46,Fitness,1862
+47,Toaster #47,Kitchen,2401
+48,Clock #48,Home,4006
+49,Bluetooth Speaker #49,Electronics,3860
+50,Belt #50,Accessories,3148
+51,Watch Strap #51,Accessories,238
+52,Dumbbells #52,Fitness,720
+53,Belt #53,Accessories,2727
+54,Fitness Band #54,Wearables,4648
+55,Laptop #55,Electronics,4944
+56,Smartphone #56,Electronics,4542
+57,Slippers #57,Footwear,3294
+58,Self-help Book #58,Books,1687
+59,Juicer #59,Kitchen,1452
+60,Eyeliner #60,Beauty,2749
+61,Kettlebell #61,Fitness,4291
+62,Conditioner #62,Beauty,467
+63,Juicer #63,Kitchen,1643
+64,Clock #64,Home,2813
+65,Power Bank #65,Electronics,901
+66,Cookbook #66,Books,2245
+67,Fiction Book #67,Books,3438
+68,Backpack #68,Accessories,4965
+69,Resistance Bands #69,Fitness,4677
+70,Action Figure #70,Toys,4986
+71,Watch Strap #71,Accessories,3648
+72,Sunglasses #72,Accessories,1888
+73,Smartphone #73,Electronics,4568
+74,Bluetooth Speaker #74,Electronics,4478
+75,Running Shoes #75,Footwear,1765
+76,Self-help Book #76,Books,4132
+77,Clock #77,Home,4512
+78,Sandals #78,Footwear,368
+79,Comic Book #79,Books,3188
+80,Sneakers #80,Footwear,4752
+81,Kettlebell #81,Fitness,313
+82,Conditioner #82,Beauty,1372
+83,Wall Decor #83,Home,902
+84,Fiction Book #84,Books,4525
+85,VR Headset #85,Wearables,703
+86,Sneakers #86,Footwear,2121
+87,Tablet #87,Electronics,1821
+88,Cushions #88,Home,637
+89,Cushions #89,Home,822
+90,Lipstick #90,Beauty,512
+91,Smartphone #91,Electronics,369
+92,Rice Cooker #92,Kitchen,3631
+93,Kettlebell #93,Fitness,4539
+94,Resistance Bands #94,Fitness,3952
+95,Bluetooth Speaker #95,Electronics,452
+96,Bluetooth Speaker #96,Electronics,3456
+97,Boots #97,Footwear,1729
+98,Cookbook #98,Books,890
+99,Dumbbells #99,Fitness,1974
+100,Cushions #100,Home,699
