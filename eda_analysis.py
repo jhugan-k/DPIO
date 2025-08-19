@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load preprocessed merged data
-data_path = "C:/Users/JHUGAN KARTIKEY/PROJECTS/DPIO/data/"
+data_path = 'data/'
 products = pd.read_csv(data_path + "products.csv")
 inventory = pd.read_csv(data_path + "inventory.csv")
 sales = pd.read_csv(data_path + "sales.csv")

@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Load data
-data_path = "C:/Users/JHUGAN KARTIKEY/PROJECTS/DPIO/data/"
+data_path = 'data/'
 products = pd.read_csv(data_path + "products.csv")
 inventory = pd.read_csv(data_path + "inventory.csv")
 sales = pd.read_csv(data_path + "sales.csv")

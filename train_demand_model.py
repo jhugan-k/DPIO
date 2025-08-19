@@ -7,7 +7,7 @@ from math import sqrt
 import joblib
 
 # ---------- Load Feature Data ----------
-data_path = "C:/Users/JHUGAN KARTIKEY/PROJECTS/DPIO/data/"
+data_path = 'data/'
 df = pd.read_csv(data_path + "features.csv")
 
 # ---------- Define Input Features ----------

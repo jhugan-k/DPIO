@@ -71,7 +71,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------- LOAD DATA ----------------
-data_path = "C:/Users/JHUGAN KARTIKEY/PROJECTS/DPIO/data/"
+data_path = 'data/' # Or even just use 'data/optimal_prices.csv' directly
+df = pd.read_csv(data_path + "optimal_prices.csv")
+
 df = pd.read_csv(data_path + "optimal_prices.csv")
 products = pd.read_csv(data_path + "products.csv")
 df = df.merge(products[["product_id", "category"]], on="product_id", how="left")

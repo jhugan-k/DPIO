@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Set your data path
-data_path = "C:/Users/JHUGAN KARTIKEY/PROJECTS/DPIO/data/"
+data_path = 'data/'
 
 # Load datasets
 products = pd.read_csv(data_path + "products.csv")

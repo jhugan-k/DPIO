@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load data and model
-data_path = "C:/Users/JHUGAN KARTIKEY/PROJECTS/DPIO/data/"
+data_path = 'data/'
 products = pd.read_csv(data_path + "products.csv")
 inventory = pd.read_csv(data_path + "inventory.csv")
 model = joblib.load(data_path + "demand_model.pkl")
