@@ -6,8 +6,7 @@
 
 A comprehensive web application built with Streamlit that leverages machine learning to forecast product demand and calculate optimal pricing strategies. This project demonstrates an end-to-end MLOps workflow, from data analysis to a containerized cloud deployment.
 
-**[ live demo link will be placed here ]**
-
+http://dpio-env.eba-2eh8cera.eu-north-1.elasticbeanstalk.com/
 ## Key Features
 
 -   **Demand Forecasting:** Utilizes the Prophet library to accurately predict future product demand based on historical sales data.
